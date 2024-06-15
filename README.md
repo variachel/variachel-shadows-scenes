@@ -1,3 +1,3 @@
-# Variachel-Shadows Scenes
+# Variachel Shadows Scenes
 
 Scenes for Shadows & Dust
